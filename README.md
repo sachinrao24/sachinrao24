@@ -1,5 +1,9 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+![404 This is not the web page you are looking for.](https://github.com/sachinrao24/sachinrao24/blob/main/github-404.png?raw=true)
 
+Still here?
+
+I like all things CS.
 <!--
 **sachinrao24/sachinrao24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
