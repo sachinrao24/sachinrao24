@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on using ML to identify patterns in online social interactions.
 - 🌱 I’m currently learning about the applications of data science in combating climate change.
 - 👯 I’m looking to collaborate on anything!
+- ⚡ Fun fact: I once got a text reply from Bill Inmon (Father of the Data Warehouse).
+
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I once got a text reply from Bill Inmon (Father of the Data Warehouse).
